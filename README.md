@@ -51,7 +51,7 @@ In the `application.properties` file, configure your MongoDB database settings:
 
 ```properties
 spring.data.mongodb.uri=mongodb://localhost:27017/taskdb
-server.port=8081
+server.port=8080
 ```
 
 ## Project Structure
